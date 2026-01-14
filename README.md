@@ -66,5 +66,4 @@ The architecture separates I/O (loaders) from analysis logic so adapters can be 
 3. (Optional) Write dataset-specific scripts that export Parquet files conforming to the schema so the existing CLI commands can operate unchanged.
 4. Configure additional Typer commands or configs if you need custom preprocessing, but keep outputs consistent so tests and CI remain valid.
 
-## License
-MIT © Waymo Research
+
