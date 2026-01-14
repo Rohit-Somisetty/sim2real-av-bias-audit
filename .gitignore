@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+# Keep generated artifacts local; curated docs/figures and docs/sample_report.md are tracked separately
+outputs/
+*.parquet
+.coverage
+htmlcov/
+.mypy_cache/

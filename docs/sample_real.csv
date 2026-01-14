@@ -1,0 +1,4 @@
+trip_id,timestamp_s,dt_s,ego_speed_mps,ego_accel_mps2,lane_offset_m,ttc_s,engaged,weather,time_of_day,traffic_density,domain
+real_trip_0001,0.0,0.1,13.1,-0.5,0.09,4.5,True,rain,day,high,real
+real_trip_0001,0.1,0.1,12.4,-0.6,0.11,4.0,True,rain,day,high,real
+real_trip_0002,0.0,0.1,9.8,-1.2,-0.15,3.2,False,fog,night,medium,real

@@ -1,0 +1,4 @@
+trip_id,timestamp_s,dt_s,ego_speed_mps,ego_accel_mps2,lane_offset_m,ttc_s,engaged,weather,time_of_day,traffic_density,domain
+sim_trip_0001,0.0,0.1,12.5,0.2,0.05,6.0,True,clear,day,medium,sim
+sim_trip_0001,0.1,0.1,12.8,0.3,0.04,5.5,True,clear,day,medium,sim
+sim_trip_0002,0.0,0.1,11.2,-0.4,-0.03,7.2,True,night,low,low,sim
